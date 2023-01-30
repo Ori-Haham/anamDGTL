@@ -1,0 +1,9 @@
+.menu-container {
+  width: 50%;
+}
+
+@media screen and (max-width: 560px) {
+  .menu-container {
+    width: 100%;
+  }
+}

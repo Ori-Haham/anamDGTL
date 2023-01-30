@@ -1,0 +1,11 @@
+.menu-right__title {
+  margin: 175px 0 4px 80px;
+}
+
+@media screen and (max-width: 560px) {
+  .menu-right__title {
+    margin: 0 0 4px 0;
+    max-width: 100%;
+    text-align: center;
+  }
+}

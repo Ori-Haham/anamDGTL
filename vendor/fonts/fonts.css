@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'gibson';
+  font-weight: 300;
+  src: url(./Gibson-Light.woff) format('woff'),
+    url(./Gibson-Light.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'gibson';
+  font-weight: 400;
+  src: url(./Gibson.woff) format('woff'), url(./Gibson.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'gibson';
+  font-weight: 600;
+  src: url(./Gibson-SemiBold.woff) format('woff'),
+    url(./Gibson-SemiBold.woff2) format('woff2');
+}

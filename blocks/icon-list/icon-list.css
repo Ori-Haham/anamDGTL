@@ -1,0 +1,12 @@
+.icon-list {
+  margin: 24px 0 0 80px;
+  display: flex;
+  gap: 16px;
+}
+
+@media screen and (max-width: 560px) {
+  .icon-list {
+    width: min-content;
+    margin: 24px auto;
+  }
+}

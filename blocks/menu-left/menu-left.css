@@ -1,0 +1,15 @@
+.menu-left {
+  margin: 80px 0 80px 120px;
+  position: relative;
+}
+
+.menu-left_hidden {
+  visibility: hidden;
+  opacity: 0;
+}
+
+@media screen and (max-width: 560px) {
+  .menu-left {
+    margin: 70px auto;
+  }
+}
